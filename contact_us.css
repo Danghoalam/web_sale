@@ -1,0 +1,31 @@
+.block_contact{
+    padding: 50px 80px;
+    /* border: 1px solid black; */
+    justify-content: center;
+    display: flex;
+    /* font-size: 17px; */
+    height: 280px;
+}
+.contact_title{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    margin: 20px 0;
+    font-size: 35px;
+    font-family:Arial, Helvetica, sans-serif
+    
+}
+.title-main a{
+    font-weight: bold;
+}
+.title-main li{
+   /* font-weight: bold; */
+   /* border: 1px solid black; */
+   list-style: none;
+   padding-bottom: 30px ;
+font-size: 25px;
+width: 800px;
+}
+.title-main ul{
+   
+}

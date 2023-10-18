@@ -1,0 +1,74 @@
+.main-account{
+    display: block;
+    /* padding: 0px 80px; */
+    font-weight: 300px;
+    min-height: -1000px;
+    
+}
+.Container{
+    padding: 0px 80px;
+}
+.Form__Title { 
+    margin-bottom: 16px; 
+    font-size: 20px;
+    font-family: Montserrat,sans-serif;
+    display: flex;
+    justify-content: center;
+}.Form_header{margin-bottom: 24px;}
+.pagecontent{display: flex;justify-content: center;padding: 100px 0px;}
+.Form__Legend{display: flex;justify-content: center;
+    font-size: inherit;
+    font-weight: inherit;
+}
+.button{display: flex;justify-content: center;width: 428px;}
+.Form__Hint{display: flex;justify-content: center;margin-top: 24px;}
+
+.Form__Submit{
+background-color: #1c1b1b;
+color: aliceblue;
+width:428px ;height:50px ;
+margin-top: 20px;
+padding: 14px 0px;
+
+}
+.Form__Submit:hover{
+    color: #1c1b1b;
+    background-color: aliceblue;
+    border: 1px solid #1c1b1b;
+    
+    transform-origin: left center;
+}
+.Text--subdued{
+color: #6a6a6a;
+font-size: 17px;
+}
+.Form__Hint a{
+    margin-left: 10px;
+color: black;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 17px;
+}.Form__Hint a:hover{color: #6d5454;}
+.Form__Input{padding: 12px 14px;
+width: 400px;height: 30px;
+font-size: 18px;
+}
+.Form_FloatingLabel{
+    /* margin-left: -414px; */
+    font-size: 18px;
+    width: 10px;
+}
+/* .Form_FloatingLabel:active{
+    margin-top: -10px;
+} */
+.Form__Item{
+    border: 1px solid rgb(114, 109, 102);
+}
+
+
+
+.Form_ItemHelp{
+margin-right: 10px;
+display: flex;
+justify-content: right;
+}

@@ -1,0 +1,33 @@
+.title-main{
+    display: flex;
+    justify-content: center;
+    letter-spacing: 4px;
+    font-size: 25px;
+    padding: 50px 0;
+    border-bottom:1px solid #bebebe ;
+}
+ul.products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+ul.products li{
+    flex-basis: 23%;
+    list-style: none;
+}
+.img1{
+    max-width: 100%;
+    height: auto;
+}
+.Strap p{
+    display: flex;
+    justify-content: center;
+}
+.products li{
+    padding: 20px 0px ;
+    
+}
+.products .p{
+    margin-top: 10px;
+}
+
